@@ -1,0 +1,25 @@
+body {
+    background: rgb(59, 37, 130);
+    padding: 150px;
+    font-family: 'Almarai', sans-serif;
+}
+
+.container {
+    height: 300px;
+    width: 300px;
+    border: 2px solid greenyellow;
+    border-radius: 27px;
+    -webkit-box-shadow: 2px 5px 33px 14px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 2px 5px 33px 14px rgba(0, 0, 0, 0.75);
+    box-shadow: 2px 5px 33px 14px rgba(0, 0, 0, 0.75);
+}
+
+h1 {
+    color: greenyellow;
+}
+
+#clock {
+    padding: 20px;
+    font-size: 30px;
+    color: greenyellow;
+}
